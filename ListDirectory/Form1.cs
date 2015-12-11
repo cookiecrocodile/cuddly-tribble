@@ -102,13 +102,9 @@ namespace ListDirectory
                     files = root.GetFiles();
                 }
 
+                listBoxDirectories.Items.Clear(); //To prevent duplication bug
 
-
-                    //listBoxDirectories.Items.Add(".."); //Sabbar hela systemet med index
-                    //currentPath = Directory.GetParent(currentPath).ToString();
-
-
-                    foreach (DirectoryInfo d in dir)
+                foreach (DirectoryInfo d in dir)
                     {
                         listBoxDirectories.Items.Add(d.Name);
                     }
@@ -120,9 +116,7 @@ namespace ListDirectory
                     }
 
                     ShowCurrentPath();
-               
-
-
+                
 
             }
             catch (Exception ex)
