@@ -1,0 +1,18 @@
+D:\vecka 50\ListDirectory\ListDirectory\bin\Debug\ListDirectory.exe.config
+D:\vecka 50\ListDirectory\ListDirectory\bin\Debug\ListDirectory.exe
+D:\vecka 50\ListDirectory\ListDirectory\bin\Debug\ListDirectory.pdb
+D:\vecka 50\ListDirectory\ListDirectory\obj\Debug\ListDirectory.csprojResolveAssemblyReference.cache
+D:\vecka 50\ListDirectory\ListDirectory\obj\Debug\ListDirectory.Form1.resources
+D:\vecka 50\ListDirectory\ListDirectory\obj\Debug\ListDirectory.Properties.Resources.resources
+D:\vecka 50\ListDirectory\ListDirectory\obj\Debug\ListDirectory.csproj.GenerateResource.Cache
+D:\vecka 50\ListDirectory\ListDirectory\obj\Debug\ListDirectory.exe
+D:\vecka 50\ListDirectory\ListDirectory\obj\Debug\ListDirectory.pdb
+C:\Users\Karin0\Documents\Visual Studio 2015\Projects\glowing-happiness-master\ListDirectory\bin\Debug\ListDirectory.exe.config
+C:\Users\Karin0\Documents\Visual Studio 2015\Projects\glowing-happiness-master\ListDirectory\obj\Debug\ListDirectory.exe
+C:\Users\Karin0\Documents\Visual Studio 2015\Projects\glowing-happiness-master\ListDirectory\obj\Debug\ListDirectory.pdb
+C:\Users\Karin0\Documents\Visual Studio 2015\Projects\glowing-happiness-master\ListDirectory\bin\Debug\ListDirectory.exe
+C:\Users\Karin0\Documents\Visual Studio 2015\Projects\glowing-happiness-master\ListDirectory\bin\Debug\ListDirectory.pdb
+C:\Users\Karin0\Documents\Visual Studio 2015\Projects\glowing-happiness-master\ListDirectory\obj\Debug\ListDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Karin0\Documents\Visual Studio 2015\Projects\glowing-happiness-master\ListDirectory\obj\Debug\ListDirectory.Form1.resources
+C:\Users\Karin0\Documents\Visual Studio 2015\Projects\glowing-happiness-master\ListDirectory\obj\Debug\ListDirectory.Properties.Resources.resources
+C:\Users\Karin0\Documents\Visual Studio 2015\Projects\glowing-happiness-master\ListDirectory\obj\Debug\ListDirectory.csproj.GenerateResource.Cache
